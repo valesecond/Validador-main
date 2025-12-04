@@ -1,0 +1,26 @@
+# Exemplos de valores monetários para validação
+# Baseado na especificação da questão 1
+
+# VALORES VÁLIDOS
+$0,00
+$5,50
+$99,99
+$100,00
+$1.000,00
+$10.000,50
+$999.999,99
+USD$1.234.567,89
+$-500,00
+$(750,00)
+
+# VALORES INVÁLIDOS
+100,00
+$100
+$100,0
+$100,000
+$,00
+$1.00,00
+$10.0,00
+$(100,00
+$-100,00)
+R$$50,25

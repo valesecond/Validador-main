@@ -1,0 +1,9 @@
+# Validador de Valores Monetários
+# Este programa usa apenas bibliotecas padrão do Python
+# Não são necessárias instalações externas
+
+# Bibliotecas utilizadas (todas nativas do Python):
+# - re (expressões regulares)
+# - sys (argumentos de sistema)
+
+# Python >= 3.6
